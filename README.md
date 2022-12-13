@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <h3 align = "center">Me</h3>
 
   <a href="https://wbin0718.github.io/"><img src="https://img.shields.io/badge/BLOG-F05032?style=flat-square&logo=Python&logoColor=white&link=https://wbin0718.github.io/"/></a>
-
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbin0718&show_icons=true&theme=onedark)
 
 </div>
