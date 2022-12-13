@@ -12,6 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbin0718&show_icons=true&theme=onedark)
+
+##### I'm Woobin Park🎉, Want to be an ML Engineer.
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://facerain.github.io/)](https://facerain.club)   
+
+
+### My Interest
+
+- Natural Language Processing
+- MLOps 
+- Cloud Computing System 
+- Open Source Contributing
+
 <div align = "center">
   <h3 align = "center">Hello I'm WooBin👋</h3>
   <hr>
