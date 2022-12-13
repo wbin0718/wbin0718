@@ -1,4 +1,4 @@
-<img align='right' src = "https://github-readme-stats.vercel.app/api?username=wbin0718&show_icons=true&theme=onedark">
+<img src = "https://github-readme-stats.vercel.app/api?username=wbin0718&show_icons=true&theme=onedark" align = "right">
 
 ### Hello I'm Woobin👋
 <a href="https://wbin0718.github.io/"><img src="https://img.shields.io/badge/TECH BLOG-181717?style=flat-square&logo=github&logoColor=white&link=https://wbin0718.github.io/"></a>
