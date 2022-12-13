@@ -5,9 +5,9 @@
 
 ### Introduce
 
-* I'm intereseted in Natural Language Processing
-* I'm studying in Front-develpment
 * I want to be a ML Engineer
+* I'm intereseted in Natural Language Processing
+* I'm studying in Front-end develpment
 
 <!--
 **wbin0718/wbin0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
