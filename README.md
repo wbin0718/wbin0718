@@ -5,8 +5,8 @@
 
 ### Introduce
 
-* I want to be a Data Scientist
-* I'm intereseted in Natural Language Processing
+* I want to be a Product Data Analyst
+* I used to coding with bigquery
 
 <!--
 **wbin0718/wbin0718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
